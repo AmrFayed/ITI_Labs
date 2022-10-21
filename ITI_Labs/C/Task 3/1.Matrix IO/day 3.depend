@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1665486715 source:c:\users\sonya\desktop\day 1\day 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1665403214 c:\users\sonya\desktop\day 1\day 3\mylibrary.h
+	<windows.h>
+
+1665489370 source:e:\iti_labs\c\day 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1665403214 e:\iti_labs\c\day 3\mylibrary.h
+	<windows.h>
+

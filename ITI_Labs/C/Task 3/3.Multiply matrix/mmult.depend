@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666220785 source:c:\users\sonya\desktop\day 1\day 5\mmult\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

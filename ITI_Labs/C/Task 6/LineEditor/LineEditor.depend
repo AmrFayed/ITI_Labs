@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665927832 source:c:\users\sonya\desktop\day 1\day6\lineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1665403214 c:\users\sonya\desktop\day 1\day6\lineeditor\mylibrary.h
+	<windows.h>
+

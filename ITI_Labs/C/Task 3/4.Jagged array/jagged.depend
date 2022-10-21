@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1665490101 source:c:\users\sonya\desktop\day 1\day 3\jagged\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1665403214 c:\users\sonya\desktop\day 1\day 3\jagged\mylibrary.h
+	<windows.h>
+
+1666364453 source:e:\iti_labs\c\day 3\3.jagged array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1665403214 e:\iti_labs\c\day 3\3.jagged array\mylibrary.h
+	<windows.h>
+
